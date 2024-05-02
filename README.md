@@ -23,8 +23,8 @@ An Awesome Website Template design by Osama Elzero. A Great training for many CS
 
 ### Screenshot
 
-[![](./screenshots/desktop_thumb.jpg)](./screenshots/desktop.jpg "Click for full Image")
-[![](./screenshots/mobile_thumb.jpg)](./screenshots/mobile.jpg "Click for full Image")
+[click for desktop screenshot](./screenshots/desktop.jpg)
+[click for mobile screenshot](./screenshots/mobile.jpg)
 
 
 ### Links
